@@ -1,4 +1,4 @@
-## Vesting
+## Vesting Smart Contract
 
 ***In this article I teach you how to create a vesting contract in which an owner can deposit an amount of an ERC20 token into the contract and a certain receiver can withdraw `1 / n` tokens over `n` days.***
 
